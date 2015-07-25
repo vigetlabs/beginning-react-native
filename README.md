@@ -2,7 +2,7 @@
 A SXSW 2016 Interactive Workshop
 
 ## About the Workshop
-(Check out our [video introduction](#TODO) to this workshop.)
+(Check out our [video introduction](https://youtu.be/8SiE3_hRLGQ) to this workshop.)
 
 Web apps have come a long way (as our colleague has [aptly demonstrated](http://speakerrate.com/talks/59561-native-or-not-the-untapped-power-of-web-apps)), but native apps still allow you to do some really cool things that you just can’t do on the web. Like using bluetooth to control physical devices around you.
 
