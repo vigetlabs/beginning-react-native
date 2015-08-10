@@ -43,7 +43,10 @@ _Durham, NC_
 
 ![Nate](http://viget.com/uploads/image/profile/person/nhunzaker.jpg)
 
-Nate is a virtuoso JavaScript developer and React core contributor.
+Nate Hunzaker is a JavaScript engineer at Viget, a full-service web agency. There he spends his time writing web applications, interactive data visualizations, and playing with (and contributing to) the latest open-source web technologies. 
+
+Over the past 5 years, Nate has developed considerable expertise writing web applications with JavaScript. His familiarity with the React library is nearly unparalleled. Nate is a React core contributor, and has authored several additional open-source JavaScript libraries for building applications with React, including the popular implementation of the Flux architecture, Microcosm. Nate’s background in traditional JavaScript development, coupled with his intricate knowledge of all things React, makes him an ideal instructor for this React Native workshop.
+
 
 ## Questions? Suggestions?
 [Submit an issue here](https://github.com/vigetlabs/beginning-react-native/issues/new) with your comments and we'll be in touch soon.
