@@ -1,5 +1,8 @@
-# Web to Native: Beginning iOS Development With React Native
+# Beginning iOS Development With React Native
 A SXSW 2016 Interactive Workshop
+
+##_Workshop Materials_
+- [https://share.viget.com/sxsw/rn-workshop/index.html](https://share.viget.com/sxsw/rn-workshop/index.html)
 
 ## About the Workshop
 (Check out our [video introduction](https://youtu.be/8SiE3_hRLGQ) to this workshop.)
